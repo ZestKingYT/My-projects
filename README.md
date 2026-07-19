@@ -18,7 +18,7 @@ Welcome to my GitHub profile! Here you can find some of my main projects and cou
 * **Practical Task:** Using the main menu, the user can perform one of the practical tasks.
 * **Description:** Each practical task involves interacting with the user via dialog boxes, with a specific dialog box for each individual task. Upon completion of the work, the user can generate a report as a text file to be saved to the disk. All user actions must be monitored and accompanied by meaningful comments. The interface should be designed for maximum usability. Provision must be made to display information about the developer and the specific course project variant.
 * **Tech Stack:** C++.
-* **[View Code](https://github.com/your_username/vetposhuk)**
+* **[View Code](https://github.com/ZestKingYT/Term-project)**
 
 ---
 
