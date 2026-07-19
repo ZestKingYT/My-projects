@@ -33,5 +33,4 @@ Welcome to my GitHub profile! Here you can find some of my main projects and cou
 * **Tools & Systems:** Linux (Ubuntu Server), Git / GitHub
 
 ## 📬 Contact Me
-* **LinkedIn:** [Your Name](https://linkedin.com/in/your_username)
-* **Email:** your.email@example.com
+* **Email:** gleb.11.glushenko@gmail.com
