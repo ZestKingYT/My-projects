@@ -1,22 +1,37 @@
-# Привет! Я веб-разработчик 🚀
+# Hi there! I'm a C++ and Web Developer 🚀
 
-Здесь собраны мои лучшие проекты для портфолио:
-
-### 1️⃣ Информационная система службы такси
-* **Описание:** Веб-приложение для управления заказами, распределения водителей и ведения базы данных клиентов.
-* **Технологии:** JavaScript, Node.js, MySQL, HTML5, CSS3.
-* **[Посмотреть код проекта](https://github.com/твой_ник/taxi-system-repo)** | **[Демо-сайт](ссылка_на_сайт_если_есть)**
+Welcome to my GitHub profile! Here you can find some of my main projects and coursework developed to showcase my skills in programming, web technologies, and database management.
 
 ---
 
-### 2️⃣ Веб-каталог ветеринарной клиники "VetPoshuk"
-* **Описание:** Сайт-каталог с возможностью поиска ветеринарных услуг, фильтрацией и базой данных клиник.
-* **Технологии:** HTML5, CSS3, JavaScript, MySQL.
-* **[Посмотреть код проекта](https://github.com/твой_ник/vetposhuk-repo)**
+## 🛠️ Featured Projects
+
+### 1️⃣ Taxi Service Information System
+* **Description:** A web-based application designed for managing taxi orders, driver allocation, and client databases.
+* **Tech Stack:** JavaScript, Node.js, MySQL, HTML5, CSS3.
+* **[View Code](https://github.com/your_username/taxi-service-system)**
 
 ---
 
-### 3️⃣ Лендинг для интернет-магазина кроссовок
-* **Описание:** Адаптивный одностраничный сайт с корзиной и формой заказа.
-* **Технологии:** HTML5, SCSS, JavaScript.
-* **[Посмотреть код проекта](https://github.com/твой_ник/sneaker-shop)**
+### 2️⃣ "VetPoshuk" – Veterinary Clinic Web Catalog
+* **Description:** A complete web catalog platform featuring search functionality, category filters, and a relational database layout for veterinary clinics.
+* **Tech Stack:** HTML5, CSS3, JavaScript (ES6+), MySQL.
+* **[View Code](https://github.com/your_username/vetposhuk)**
+
+---
+
+### 3️⃣ Sneaker Reselling & E-Commerce Landing Page
+* **Description:** A fully responsive, modern landing page built for a retail sneaker business, featuring an interactive shopping cart and order forms.
+* **Tech Stack:** HTML5, SCSS/CSS3, JavaScript.
+* **[View Code](https://github.com/your_username/sneaker-shop)** | **[Live Demo](https://your_username.github.io/sneaker-shop)**
+
+---
+
+## 🧰 Core Skills & Technologies
+* **Languages:** C++, JavaScript, HTML5, CSS3 / SCSS
+* **Databases:** MySQL
+* **Tools & Systems:** Linux (Ubuntu Server), Git / GitHub
+
+## 📬 Contact Me
+* **LinkedIn:** [Your Name](https://linkedin.com/in/your_username)
+* **Email:** your.email@example.com
