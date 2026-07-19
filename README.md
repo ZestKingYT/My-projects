@@ -13,17 +13,12 @@ Welcome to my GitHub profile! Here you can find some of my main projects and cou
 
 ---
 
-### 2️⃣ "VetPoshuk" – Veterinary Clinic Web Catalog
-* **Description:** A complete web catalog platform featuring search functionality, category filters, and a relational database layout for veterinary clinics.
-* **Tech Stack:** HTML5, CSS3, JavaScript (ES6+), MySQL.
+### 2️⃣ "Academic term project" – C++, OOP
+* **Topic:** Develop a software product based on MDI application technology.
+* **Practical Task:** Using the main menu, the user can perform one of the practical tasks.
+* **Description:** Each practical task involves interacting with the user via dialog boxes, with a specific dialog box for each individual task. Upon completion of the work, the user can generate a report as a text file to be saved to the disk. All user actions must be monitored and accompanied by meaningful comments. The interface should be designed for maximum usability. Provision must be made to display information about the developer and the specific course project variant.
+* **Tech Stack:** C++.
 * **[View Code](https://github.com/your_username/vetposhuk)**
-
----
-
-### 3️⃣ Sneaker Reselling & E-Commerce Landing Page
-* **Description:** A fully responsive, modern landing page built for a retail sneaker business, featuring an interactive shopping cart and order forms.
-* **Tech Stack:** HTML5, SCSS/CSS3, JavaScript.
-* **[View Code](https://github.com/your_username/sneaker-shop)** | **[Live Demo](https://your_username.github.io/sneaker-shop)**
 
 ---
 
